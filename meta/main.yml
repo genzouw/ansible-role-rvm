@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: newmen
+  author: genzouw
   description: RVM and Ruby installation
-  min_ansible_version: 1.5
+  min_ansible_version: 1.6
   license: MIT
   platforms:
   - name: CentOS
@@ -24,5 +24,3 @@ galaxy_info:
     - saucy
   categories:
   - development
-
-dependencies: []
